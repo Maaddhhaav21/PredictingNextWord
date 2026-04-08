@@ -1,0 +1,55 @@
+# 🔥 Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# 🔥 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔥 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔥 VS Code settings
+.vscode/
+
+# 🔥 Mac system files
+.DS_Store
+
+# 🔥 Logs
+*.log
+
+# 🔥 Environment variables
+.env
+
+# 🔥 Model files (ML/DL)
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.model
+
+# 🔥 Dataset files (optional – remove if needed)
+data/
+datasets/
+
+# 🔥 Build / distribution
+build/
+dist/
+*.egg-info/
+
+# 🔥 Temporary files
+*.tmp
+*.swp
+
+# 🔥 Coverage reports
+.coverage
+htmlcov/
+
+# 🔥 Pytest cache
+.pytest_cache/
+
+# 🔥 Mypy cache
+.
